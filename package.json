@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/aklevjer/joker/issues"
   },
-  "homepage": "https://github.com/aklevjer/joker#readme"
+  "homepage": "https://github.com/aklevjer/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
